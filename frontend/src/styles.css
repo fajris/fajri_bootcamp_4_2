@@ -1,0 +1,28 @@
+body{
+    margin: 0px;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 13px;
+    padding-top: 20px;
+}
+.table-title{
+    float: left;
+}
+.title{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.add-course{
+    float: right;
+}
+
+/* add course */
+.return{
+    float: right;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+.notes{
+    color: red;
+    padding-left: 15px;
+    padding-bottom: 10px;
+}
